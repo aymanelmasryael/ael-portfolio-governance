@@ -1,5 +1,7 @@
 # AEL Portfolio Governance
 
+> The purpose of governance is not to maximize change, but to minimize unnecessary decisions while preserving the capacity to evolve.
+
 ## Core Principles
 
 1. **License follows asset type** — not repository name or personal preference.
