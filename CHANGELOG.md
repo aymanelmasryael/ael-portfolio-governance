@@ -37,3 +37,17 @@ This release codifies the policies, standards, and procedures developed across f
 
 ### Context
 This release turns governance into a self-managing system by defining how governance itself changes. Before v1.1, governance documented decisions. With v1.1, governance also documents how decisions about itself are made — closing the loop on the governance system.
+
+---
+
+## Post v1.1 — Operational Steady State
+
+The governance system is no longer under construction. It is now under stewardship. Future revisions will be justified by operational evidence rather than anticipated needs.
+
+- **v1.0** — Established the institution.
+- **v1.1** — Established how the institution governs its own evolution.
+- **Post v1.1** — Governance is practiced. Future versions arise from operational experience, not design assumptions.
+
+The founding principle was added to GOVERNANCE.md:
+
+> The purpose of governance is not to maximize change, but to minimize unnecessary decisions while preserving the capacity to evolve.
